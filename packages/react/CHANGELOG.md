@@ -1,5 +1,14 @@
 # @uploadthing/react
 
+## 5.6.2
+
+### Patch Changes
+
+- [#384](https://github.com/pingdotgg/uploadthing/pull/384)
+  [`8c01e98`](https://github.com/pingdotgg/uploadthing/commit/8c01e980cf5b695165101b11c741ce6c1b396bdd)
+  Thanks [@Mr0Bread](https://github.com/Mr0Bread)! - fix bug where progress bar
+  styles was not included in the compiled stylesheet
+
 ## 5.6.1
 
 ### Patch Changes

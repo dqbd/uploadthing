@@ -1,5 +1,19 @@
 # uploadthing
 
+## 5.6.2
+
+### Patch Changes
+
+- [#380](https://github.com/pingdotgg/uploadthing/pull/380)
+  [`2803c5b`](https://github.com/pingdotgg/uploadthing/commit/2803c5b18962abc1884fe565fa0a3f60c04f2717)
+  Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - fix: include
+  patterns of withUt now points to existing files
+
+- [#373](https://github.com/pingdotgg/uploadthing/pull/373)
+  [`33c67af`](https://github.com/pingdotgg/uploadthing/commit/33c67af34d57e2ea3091ba7d7cdc1ddfaf1bbf97)
+  Thanks [@juliusmarminge](https://github.com/juliusmarminge)! - feat(sdk): add
+  usage endpoint to sdk
+
 ## 5.6.1
 
 ### Patch Changes
